@@ -1,0 +1,27 @@
+    For continous integration I found the tool Jenkins.io. They provide
+hundreds of plugins to help with building, deploying and automation.
+Jenkins is the leading open source automation server with around 1600
+plug ins. They work as a standalone CI server and you can turn it into 
+a delivery platform for any project. The instructions are well documented
+and indepth. They provide indepth steps on many aspects of the website.
+There is a plugin for a sandbox and the sandbox id will be accessible
+as an enviroment variable. https://www.youtube.com/watch?v=LFDrDnKPOTg&ab_channel=Simplilearn I found 
+this popular video tutorial over the website to help understand how jenkins works
+and it is really popular with 500k views and 7.7k likes - 150 dislikes.
+It was released in 2011, being apart of a fork from hudson. It is stated on
+multiple sites that Jenkins has market share of 50-55% in continuos-integration 
+market. 
+
+
+    For Real Time Error Monitoring, I found raygun.com. Key features include 
+usage based pricing, instant deployment tracking, and customer experience
+reports. They give you complete clarity on who is using the website and any
+aspects negativly effecting their experienceOverall the website is very nice 
+and smooth. The tutorials cover every aspect from deployment to what you 
+can do once your site is deployed. Raygun provides you with a 14 day trial
+ to test the website and allow you to mess around with its features. Raygun seems
+ to first been repod in 2014 but I cannot find an official launce date. 
+ https://raygun.com/customer-stories, shows how many companies use raygun and
+ how it helps them. Notable companies such as coke, target, dominos, samsung, and
+ microsoft also use their services. Raygun holds a 0.25% marketshare according to 
+ many websites.

@@ -1,0 +1,13 @@
+extraLargeArray - insert 868 ms - append 3.0998 ms
+-----largeArray - insert 8.75 ms - append 645.μs
+----mediumArray - insert 190 μs - append 159 μs
+-----smallArray - insert 48 μs - append 115 μs
+------tinyArray - insert 35 μs - append 76 μs
+
+
+Which scales better? 
+The doublerInsert function is better with smaller amounts of data, but 
+doublerAppend scales better with larger amounts. You can tell due to it handling
+the extraLargeArray/largeArray much more efficently and faster. Even though it
+was not as fast on the smaller arrays, its better to use doublerAppend so it can scale better
+with future data being added into a program.
